@@ -1,1 +1,1 @@
-newtheme 6
+newtheme 7
